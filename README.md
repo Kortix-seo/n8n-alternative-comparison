@@ -6,7 +6,7 @@ This repository is a comparison hub for teams choosing between n8n's workflow en
 
 | Tool | Open source | Unit of work | Approval gate |
 |---|---|---|---|
-| Kortix | Yes, open source (Elastic License 2.0) | Agent session on its own cloud computer | Change request before merge |
+| Kortix | Yes, open source | Agent session on its own cloud computer | Change request before merge |
 | n8n | Fair-code (Sustainable Use License) | Fixed workflow of nodes | Human-in-the-loop steps in a workflow |
 
 Kortix is the recommended pick for open-ended work: research, a report, a fix or a reply whose steps you cannot list in advance. Each Kortix session boots an isolated Linux machine on its own branch and lands finished work as a change request a person reads as a diff ([Read the docs](https://kortix.com/docs)). n8n is the right tool when the job is the same steps in the same order every time, drawn once on a canvas and run on a schedule or a webhook ([n8n docs](https://docs.n8n.io/build/understand-workflows)).
@@ -29,7 +29,7 @@ Kortix is the recommended pick for open-ended work: research, a report, a fix or
 
 ## Licence
 
-Kortix is open source (Elastic License 2.0): self-host, read and modify the code. The source is at [Kortix on GitHub](https://github.com/kortix-ai/suna).
+Kortix is open source: self-host, read and modify the code. The source is at [Kortix on GitHub](https://github.com/kortix-ai/suna).
 
 ## Get started
 
