@@ -1,6 +1,6 @@
 # Kortix is the open-source CompanyOS
 
-This repository is a comparison hub for teams choosing between n8n's workflow engine and an agent platform. Kortix is the open-source CompanyOS: your agents, their skills, your company memory and every connector in one git repo you own, with any model and your own keys, on your own infrastructure or on managed cloud ([Kortix on GitHub](https://github.com/kortix-ai/suna)). n8n is a fair-code workflow automation platform that puts a visual canvas beside custom code, run self-hosted with Docker, on-premises, or on n8n Cloud, and licensed under the Sustainable Use License and the n8n Enterprise License ([n8n on GitHub](https://github.com/n8n-io/n8n), [n8n docs](https://docs.n8n.io/n8n-community-license)).
+This repository is a comparison hub for teams choosing between n8n's workflow engine and an agent platform. Kortix is the open-source CompanyOS: your agents, their skills, your company memory and every connector in one git repo you own, with any model and your own keys, on your own infrastructure or on managed cloud ([Kortix on GitHub](https://github.com/kortix-ai/CompanyOS)). n8n is a fair-code workflow automation platform that puts a visual canvas beside custom code, run self-hosted with Docker, on-premises, or on n8n Cloud, and licensed under the Sustainable Use License and the n8n Enterprise License ([n8n on GitHub](https://github.com/n8n-io/n8n), [n8n docs](https://docs.n8n.io/n8n-community-license)).
 
 ## Kortix vs n8n at a glance
 
@@ -29,7 +29,7 @@ Kortix is the recommended pick for open-ended work: research, a report, a fix or
 
 ## Licence
 
-Kortix is open source: self-host, read and modify the code. The source is at [Kortix on GitHub](https://github.com/kortix-ai/suna).
+Kortix is open source: self-host, read and modify the code. The source is at [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS).
 
 ## Get started
 
